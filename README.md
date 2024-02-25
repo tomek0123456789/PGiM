@@ -11,6 +11,7 @@ Laborant: Mgr inż. Patryk Krukowski
 * Każdy notebook musi zostać rozwiązany poprawnie w 50%.
 * Maksymalna liczba punktów możliwych do uzyskania to 120 punktów (10 punktów za każdy z 12 notebooków).
 * Aktywne osoby dostaną dodatkowe punkty.
+
 * Skala ocen jest następująca:
     - [0, 50)% - ndst,
     - [50, 60)% - dst,
@@ -18,3 +19,10 @@ Laborant: Mgr inż. Patryk Krukowski
     - [70, 80)% - db,
     - [80, 90)% - db+,
     - [90, $\infty$) - bdb
+
+# Konsultacje
+* Poniedziałki: 17:30 - 18:30,
+* Czwartki: 12:30 - 13:30,
+* Istnieje możliwość umówienia się na godziny inne niż proponowane
+
+W przypadku wszelkich pytań lub wątpliwości, proszę o kontakt email (patryk.krukowski@doctoral.uj.edu.pl).
