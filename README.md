@@ -26,7 +26,7 @@ Osoba prowadząca laboratoria: Mgr inż. Patryk Krukowski
 # Konsultacje
 * Poniedziałki: 17:30 - 18:30,
 * Czwartki: 12:30 - 13:30,
-* Istnieje możliwość umówienia się na godziny inne niż proponowane
+* Istnieje możliwość umówienia się na godziny inne niż proponowane. W szczególności istnieje możliwość konsultacji zdalnych.
 
 W przypadku wszelkich pytań lub wątpliwości, proszę o kontakt email (patryk.krukowski@doctoral.uj.edu.pl).
 
@@ -35,8 +35,8 @@ W przypadku wszelkich pytań lub wątpliwości, proszę o kontakt email (patryk.
 * Lab 2 - Przekształcenia obrazów, cz. 1
 * Lab 3 - Przekształcenia obrazów, cz. 2
 * Lab 4 - Konwersje obrazów
-* Lab 5 - zaszumianie obrazów i ich filtracja
-* Lab 6 - histogramy
+* Lab 5 - Zaszumianie obrazów i ich filtracja
+* Lab 6 - Histogramy
 * Lab 7 - Binaryzacja
 * Lab 8 - Morfologia matematyczna i erozja
 * Lab 9 - Operacje Hit-and-Miss i Hit-or-Miss
