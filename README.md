@@ -7,7 +7,7 @@ Osoba prowadząca laboratoria: Mgr inż. Patryk Krukowski
 
 
 # Zasady zaliczenia laboratorium
-* Obecność na laboratoriach jest obowiązkowa.
+* Obecność na laboratoriach jest obowiązkowa. Dopuszczalne są 2 nieusprawiedliwione obecności, wszystkie pozostałe należy usprawiedliwić w ciągu tygodnia.
 * Na każdych zajęciach będziemy rozwiązywać notebooki, za każdy notebook można dostać punkty w skali 0-10 punktów. 
 * Rozwiązane notebooki proszę umieszczać po zajęcich na swoich githubach (do których proszę o dostęp :)). Termin na wstawienie rozwiązań to 7 dni, począwszy od końca zajęć, na których dany notebook został zadany.
 * Każdy notebook musi zostać rozwiązany poprawnie w 50%. 
