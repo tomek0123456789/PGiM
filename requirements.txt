@@ -31,10 +31,10 @@ ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_160941
 pure-eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1642875951954/work
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1700607939962/work
 pyparsing @ file:///opt/conda/conda-bld/pyparsing_1661452539315/work
-PyQt5==5.12.3
-PyQt5_sip==4.19.18
-PyQtChart==5.12
-PyQtWebEngine==5.12.1
+// PyQt5==5.12.3
+// PyQt5_sip==4.19.18
+// PyQtChart==5.12
+// PyQtWebEngine==5.12.1
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
 pyzmq @ file:///croot/pyzmq_1705605076900/work
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
